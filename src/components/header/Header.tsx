@@ -1,5 +1,6 @@
-import { HeaderContainer, TextSpan } from "./HeaderContainer.ts"
-import logo from "../../assets/logoSemNome.png"
+
+import { HeaderContainer, TextSpan } from "./HeaderContainer"
+import logo from "../../assets/logo2.png"
 
 export const Header = () => {
     return (
